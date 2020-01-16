@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.pyntrmonster.RyuMuter"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Ryu Muter</name>
+
+  <description>
+      Test scratch to APK
+  </description>
+
+  <author href="https://pyntr.monster" email="henri.yudha@gmail.com">
+      Pyntr Monster
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
